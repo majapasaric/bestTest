@@ -1,0 +1,111 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212194856-create-users-groups.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/usersgroups.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/organization.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170126222056-create-group.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/group.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/routes/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170126222113-create-organization.js" />
+        <item url="file://$PROJECT_DIR$/dist/app.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170126221954-create-exam.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170123215040-create-answer.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/answer.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/questionpools.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/questions.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/promotions.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170123213127-create-user.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/organizations.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/user.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/groups.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170123212638-create-todo-item.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/exams.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/exam.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/answers.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170126221911-create-question-pool.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/users.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/questionpool.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170213005641-create-question-image.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170123214922-create-question.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/questionimage.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/question.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/passport.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170213005507-create-answer-image.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/organization.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/answerimage.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models-sequelize/config/config.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170213001254-create-users-exams.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/usersexams.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/user.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/usersgroups.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/examsquestionpools.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/questionpool.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212230158-create-exams-question-pools.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212205026-create-promotion.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/promotion.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212203633-create-image.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/image.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212202900-create-questions-question-pools.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/questionsquestionpools.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212194856-create-users-groups.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/usersgroups.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/organization.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170126222056-create-group.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/group.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/routes/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170126222113-create-organization.js" />
+      <root url="file://$PROJECT_DIR$/dist/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170126221954-create-exam.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170123215040-create-answer.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/answer.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/questionpools.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/questions.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/promotions.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170123213127-create-user.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/organizations.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/user.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/groups.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170123212638-create-todo-item.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/exams.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/exam.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/answers.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170126221911-create-question-pool.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/users.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/questionpool.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170213005641-create-question-image.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170123214922-create-question.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/questionimage.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/question.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/passport.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170213005507-create-answer-image.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/organization.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/answerimage.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models-sequelize/config/config.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170213001254-create-users-exams.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/usersexams.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/user.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/usersgroups.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/examsquestionpools.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models-sequelize/models/questionpool.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212230158-create-exams-question-pools.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212205026-create-promotion.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/promotion.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212203633-create-image.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/image.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/migrations/20170212202900-create-questions-question-pools.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/postgres-sequelize/models/questionsquestionpools.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
