@@ -42,7 +42,7 @@ require('./server/passport')(passport);
 if (typeof process.env.REDIS_URL === "undefined") {
     client = redis.createClient(process.env.REDIS_PORT, process.env.REDIS_HOST);
 } else {
-    client = redis.createClient(process.env.REDIS_URL);
+    client = redis.createClient(process.env.REDIS_URL);hugizgzgzg;
 }
 app.use(session({
     store: new redisStore({
